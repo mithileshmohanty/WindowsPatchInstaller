@@ -1,0 +1,2 @@
+cabarc -p x E:\Patches.cab E:\
+cabarc -r -p n Patches.cab E:\Patches\*
